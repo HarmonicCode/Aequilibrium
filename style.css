@@ -1,0 +1,14 @@
+.nav-item{
+    margin-right:10px;
+    display: flex;
+    justify-content: flex-start; 
+    gap: 5px; 
+}
+
+.button{
+    margin-right:10px;
+    display: flex;
+    justify-content: flex-start; 
+    gap: 5px; 
+
+}
